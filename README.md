@@ -206,9 +206,8 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ## Author
 
-**Piyush Dave**  
+**Prakhar Tripathi**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/piyush-dave-0980a03a8)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/piyushdave/vizzes)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/PiyushDave30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/-prakhar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/prakhartripath0001)
