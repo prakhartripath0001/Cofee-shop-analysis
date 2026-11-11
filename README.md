@@ -206,7 +206,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ## Author
 
-**Prakhar Tripathi**  
+**Prakhar**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/-prakhar/)
